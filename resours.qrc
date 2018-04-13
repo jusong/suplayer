@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>ico/pause.png</file>
+        <file>ico/start.png</file>
+        <file>ico/stop.png</file>
+        <file>ico/prev.png</file>
+        <file>ico/next.png</file>
+        <file>ico/forward.png</file>
+        <file>ico/backward.png</file>
+        <file>ico/open.png</file>
+        <file>ico/full.png</file>
+        <file>ico/ply.png</file>
+        <file>ico/add.png</file>
+        <file>ico/del.png</file>
+        <file>ico/random.png</file>
+        <file>ico/lodelst.png</file>
+        <file>ico/loop.png</file>
+        <file>ico/looplst.png</file>
+        <file>ico/onelist.png</file>
+        <file>ico/savelst.png</file>
+        <file>ico/signal.png</file>
+        <file>ico/suwin.gif</file>
+        <file>ico/3.jpg</file>
+        <file>ico/speaker.png</file>
+        <file>ico/mute.png</file>
+        <file>ico/ground.jpg</file>
+        <file>ico/delete.png</file>
+    </qresource>
+</RCC>
